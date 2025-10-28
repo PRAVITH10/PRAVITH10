@@ -36,20 +36,20 @@
 
 ## 📊 GitHub Stats:
 
-[![Pravith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravith10Hj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Pravith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravith10&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 GitHub Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pravith10Hj&theme=tokyonight)](https://streak-stats.demolab.com/?user=Pravith10Hj&theme=tokyonight)  
-[View my live streak badge here](https://streak-stats.demolab.com/?user=Pravith10Hj&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pravith10&theme=tokyonight)](https://streak-stats.demolab.com/?user=Pravith10&theme=tokyonight)  
+[View my live streak badge here](https://streak-stats.demolab.com/?user=Pravith10&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravith10Hj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravith10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Add more widgets or fun sections below! -->
 
 ---
 
 <!--
-**PRAVITH10HJ/PRAVITH10HJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pravith10/Pravith10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
